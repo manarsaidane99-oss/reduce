@@ -14,7 +14,7 @@ var personnes = [
 
 ---
 
-## 1 — Somme des âges
+## 1 Somme des âges
 
 Écris une fonction `sommeAges` qui retourne la somme des âges de toutes les personnes.
 
